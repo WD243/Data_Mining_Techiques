@@ -1,0 +1,6 @@
+# Môi trường ảo (Virtual Environments)
+.venv/
+
+
+# Các file tạm của Python
+__pycache__/
